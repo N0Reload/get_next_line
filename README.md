@@ -1,4 +1,4 @@
-# get_next_line
+# get_next_line                                                                          100/100
 3rd project in 42
 
 "This project will not only allow you to add a very convenient function to your collection,
